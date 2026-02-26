@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+bin/
+out/
+build/
